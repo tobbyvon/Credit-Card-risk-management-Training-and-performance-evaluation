@@ -1,0 +1,2 @@
+# Credit-Card-risk-management-Training-and-performance-evaluation
+This is an in-depth analysis of credit card default prediction using machine learning techniques. it involves evaluating the performance of K-Nearest Neighbours (KNN) and Decision Tree classification algorithms. The project involves data cleaning, exploratory data analysis, feature selection, model training, and performance evaluation.
